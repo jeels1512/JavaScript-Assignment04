@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Saraswatichandra",
+      "author": "Govardhanram Tripathi",
+      "price": "₹300",
+      "description": "A classic novel portraying love, society, and philosophy in Gujarat.",
+      "cover": "https://via.placeholder.com/150/FF9933/FFFFFF?text=Saraswatichandra"
+    },
+    {
+      "id": 2,
+      "title": "Yamunapaar",
+      "author": "Harikrishna Mehta",
+      "price": "₹250",
+      "description": "A story reflecting rural life struggles and deep emotions of Gujarat.",
+      "cover": "https://via.placeholder.com/150/009966/FFFFFF?text=Yamunapaar"
+    },
+    {
+      "id": 3,
+      "title": "Ganga Satadasha",
+      "author": "Zaverchand Meghani",
+      "price": "₹200",
+      "description": "Folk tales and cultural stories written by the legend of Gujarati literature.",
+      "cover": "https://via.placeholder.com/150/660099/FFFFFF?text=Ganga"
+    },
+    {
+      "id": 4,
+      "title": "Ankalmus",
+      "author": "Chandrakant Bakshi",
+      "price": "₹280",
+      "description": "Thought-provoking essays on society, life, and human values.",
+      "cover": "https://via.placeholder.com/150/FF3333/FFFFFF?text=Ankalmus"
+    },
+    {
+      "id": 5,
+      "title": "Vishwamitri",
+      "author": "Kanhaiyalal Munshi",
+      "price": "₹350",
+      "description": "A historical tale blending mythology and Indian heritage.",
+      "cover": "https://via.placeholder.com/150/3366CC/FFFFFF?text=Vishwamitri"
+    },
+    {
+      "id": 6,
+      "title": "Ashok Kumar Parikh Writings",
+      "author": "Ashok Kumar Parikh",
+      "price": "₹240",
+      "description": "Modern era reflections and social narratives by a renowned Gujarati author.",
+      "cover": "https://via.placeholder.com/150/99CC33/000000?text=Ashok+Parikh"
+    }
+  ]
+  
