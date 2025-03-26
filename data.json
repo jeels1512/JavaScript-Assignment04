@@ -1,51 +1,38 @@
 [
     {
-      "id": 1,
-      "title": "Saraswatichandra",
-      "author": "Govardhanram Tripathi",
-      "price": "₹300",
-      "description": "A classic novel portraying love, society, and philosophy in Gujarat.",
-      "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Saraswatichandra-novel-cover.jpg"
+      "name": "Sunset Lake",
+      "location": "Utah, USA",
+      "yearBuilt": "Natural",
+      "image": "https://picsum.photos/id/1018/800/500"
     },
     {
-      "id": 2,
-      "title": "Yamunapaar",
-      "author": "Harikrishna Mehta",
-      "price": "₹250",
-      "description": "A story reflecting rural life struggles and deep emotions of Gujarat.",
-      "cover": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Yamunapaar_Book_Cover.jpg"
+      "name": "Ancient Forest",
+      "location": "British Columbia, Canada",
+      "yearBuilt": "Prehistoric",
+      "image": "https://picsum.photos/id/1020/800/500"
     },
     {
-      "id": 3,
-      "title": "Ganga Satadasha",
-      "author": "Zaverchand Meghani",
-      "price": "₹200",
-      "description": "Folk tales and cultural stories written by the legend of Gujarati literature.",
-      "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Zaverchand_Meghani_Book_Cover.jpg"
+      "name": "Mountain Village",
+      "location": "Zermatt, Switzerland",
+      "yearBuilt": "19th century",
+      "image": "https://picsum.photos/id/1036/800/500"
     },
     {
-      "id": 4,
-      "title": "Ankalmus",
-      "author": "Chandrakant Bakshi",
-      "price": "₹280",
-      "description": "Thought-provoking essays on society, life, and human values.",
-      "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Chandrakant_Bakshi_Book.jpg"
+      "name": "Island Coastline",
+      "location": "Maui, Hawaii",
+      "yearBuilt": "Natural Formation",
+      "image": "https://picsum.photos/id/1042/800/500"
     },
     {
-      "id": 5,
-      "title": "Vishwamitri",
-      "author": "Kanhaiyalal Munshi",
-      "price": "₹350",
-      "description": "A historical tale blending mythology and Indian heritage.",
-      "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Kanhaiyalal_Munshi_Book_Cover.jpg"
+      "name": "Urban Bridge",
+      "location": "New York City, USA",
+      "yearBuilt": "1920",
+      "image": "https://picsum.photos/id/1063/800/500"
     },
     {
-      "id": 6,
-      "title": "Ashok Kumar Parikh Writings",
-      "author": "Ashok Kumar Parikh",
-      "price": "₹240",
-      "description": "Modern era reflections and social narratives by a renowned Gujarati author.",
-      "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ashok_Parikh_Book.jpg"
+      "name": "Green Valley",
+      "location": "Wales, UK",
+      "yearBuilt": "Ancient Settlement",
+      "image": "https://picsum.photos/id/1066/800/500"
     }
   ]
-  
