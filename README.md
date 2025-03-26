@@ -49,4 +49,7 @@ This is a simple web project that dynamically displays natural and historical pl
     "image": "https://picsum.photos/id/1020/800/500"
   }
 ]
+```
+## Live Response
+https://jeels1512.github.io/JavaScript-Assignment04/
 
