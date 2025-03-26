@@ -1,10 +1,4 @@
 fetch("https://raw.githubusercontent.com/jeels1512/stepwell-json-data/refs/heads/main/data.json")
-  .then((response) => {
-    if (!response.ok) {
-      throw new Error("Failed to load data.");
-    }
-    return response.json();
-  })
   .then((data) => {
     displayPlaces(data);
   })
