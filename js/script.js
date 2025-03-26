@@ -1,12 +1,7 @@
-fetch("https://raw.githubusercontent.com/jeels1512/stepwell-json-data/refs/heads/main/data.json")
-  .then((data) => {
-    displayPlaces(data);
-  })
-  .catch((error) => {
-    document.getElementById("places-container").innerHTML =
-      "<p>Error loading data.</p>";
-    console.error(error);
-  });
+fetch("https://raw.githubusercontent.com/jeels1512/stepwell-json-data/main/data.json")
+  .then(res => res.json())
+  .then(displayPlaces);
+
 
 function displayPlaces(places) {
   const container = document.getElementById("places-container");
