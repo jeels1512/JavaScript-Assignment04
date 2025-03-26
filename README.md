@@ -5,11 +5,11 @@ Features
     •    Displays each place with an image, name, location, and year built.
     •    Handles errors in case the data fails to load.
     •    Responsive design using CSS.
-Technologies Used
+    Technologies Used
     •    HTML
     •    CSS
     •    JavaScript (Fetch API)
-Project Structure
+    Project Structure
 project-folder/
 │-- index.html
 │-- css/
@@ -42,9 +42,3 @@ Example JSON Data
     }
 ]
 Live Preview
-
-    •    Add a search/filter function to find places by name or location.
-    •    Improve styling for better responsiveness.
-    •    Add more details such as descriptions or historical significance.
-License
-This project is open-source and free to use under the MIT License.
